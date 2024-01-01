@@ -3,5 +3,7 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/spring-unittest-datajpa-hibernate/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-unittest-datajpa-hibernate/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testdrevet-utvikling/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testdrevet-utvikling/src/main/resources" charset="UTF-8" />
   </component>
 </project>

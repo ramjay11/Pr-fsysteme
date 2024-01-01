@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Prüfsysteme.iml" filepath="$PROJECT_DIR$/.idea/Prüfsysteme.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-unittest-datajpa-hibernate/spring-unittest-datajpa-hibernate.iml" filepath="$PROJECT_DIR$/spring-unittest-datajpa-hibernate/spring-unittest-datajpa-hibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testdrevet-utvikling/testdrevet-utvikling.iml" filepath="$PROJECT_DIR$/testdrevet-utvikling/testdrevet-utvikling.iml" />
     </modules>
   </component>
 </project>
