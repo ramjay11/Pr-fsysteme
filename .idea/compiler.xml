@@ -8,17 +8,20 @@
         <outputRelativeToContentRoot value="true" />
         <module name="spring-unittest-datajpa-hibernate" />
         <module name="testdrevet-utvikling" />
+        <module name="testirovaniye-razdavit-kurs" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="spring-unittest-datajpa-hibernate" target="17" />
       <module name="testdrevet-utvikling" target="17" />
+      <module name="testirovaniye-razdavit-kurs" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="spring-unittest-datajpa-hibernate" options="-parameters" />
       <module name="testdrevet-utvikling" options="-parameters" />
+      <module name="testirovaniye-razdavit-kurs" options="-parameters" />
     </option>
   </component>
 </project>
